@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.env
+artifacts/
+data/processed/
+NP_AI_Engineer_Assessment.docx
+Online Retail Sales Data Engineering*.pdf
+*.zip
+~$*.docx
